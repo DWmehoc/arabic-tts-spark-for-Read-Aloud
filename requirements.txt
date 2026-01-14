@@ -1,0 +1,6 @@
+flask
+flask-cors
+waitress
+numpy
+sherpa-onnx
+edge-tts

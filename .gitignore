@@ -1,0 +1,6 @@
+*.onnx
+*.onnx.json
+espeak-ng-data/
+__pycache__/
+*.tar.gz
+*.zip

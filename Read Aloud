@@ -1,0 +1,6 @@
+[
+  { "voice": "ar-SA-ZariyahNeural", "lang": "ar-SA", "model": "tts-1" },
+  { "voice": "ar-SA-HamedNeural", "lang": "ar-SA", "model": "tts-1" },
+  { "voice": "miro", "lang": "ar-SA", "model": "tts-1" },
+  { "voice": "kareem", "lang": "ar-SA", "model": "tts-1" }
+]
